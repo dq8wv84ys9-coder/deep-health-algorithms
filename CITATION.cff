@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "Deep Health® Algorithms and System Documentation"
+message: "If you use this work, please cite it as below."
+type: software
+
+authors:
+  - family-names: Joseph
+    given-names: Bomi
+    name: "Joseph, Bomi"
+    orcid: "https://orcid.org/0000-0001-7626-2734"
+
+repository-code: "https://github.com/dq8wv84ys9-coder/deep-health-algorithms"
+
+license: "Apache-2.0"
+
+keywords:
+  - Deep Health
+  - longevity
+  - medical device
+  - health analytics
+  - preventive medicine
+  - natural medicine
+  - AI health assessment
+
+version: "1.0.0"
+date-released: "2025-11-28"
